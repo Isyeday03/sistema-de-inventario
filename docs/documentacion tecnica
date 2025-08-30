@@ -1,0 +1,16 @@
+# Documentación Técnica
+
+## Arquitectura
+- **Clase Producto**: Encapsula datos del producto
+- **Clase Inventario**: Gestiona colección de productos
+- **Clase InterfazUsuario**: Maneja interacción con usuario
+
+## Colecciones Utilizadas
+- **Diccionario**: Acceso O(1) por ID
+- **Conjunto**: Verificación única de IDs
+- **Lista**: Índices para búsqueda por nombre
+
+## Persistencia
+- Formato JSON para legibilidad
+- Serialización automática
+- Manejo de errores robusto

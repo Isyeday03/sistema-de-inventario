@@ -1,0 +1,20 @@
+{
+  "productos": [
+    {
+      "id_producto": "1",
+      "nombre": "Pasta",
+      "cantidad": 10,
+      "precio": 15.0,
+      "fecha_creacion": "2025-08-30 15:19:37"
+    },
+    {
+      "id_producto": "2",
+      "nombre": "Lupa",
+      "cantidad": 32,
+      "precio": 1.0,
+      "fecha_creacion": "2025-08-30 15:19:55"
+    }
+  ],
+  "fecha_guardado": "2025-08-30 15:20:01",
+  "version": "1.0"
+}
