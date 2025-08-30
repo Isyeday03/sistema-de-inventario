@@ -3,10 +3,10 @@
 ## Instalación 
 1. Clonar repositorio
 2. Ejecutar: `python src/main.py`
-3. ## Uso
+## Uso
    - Menú interactivo en consola
    - Datos se guardan en `data/inventario.json`
-   5. ## Características
+## Características
   - CRUD completo de productos
   - Búsqueda por nombre
   - Persistencia JSON
